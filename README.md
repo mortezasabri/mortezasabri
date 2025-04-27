@@ -44,6 +44,10 @@ Check out my full portfolio website: [mortezasabri.github.io](https://mortezasab
   <img src="https://github-readme-stats.vercel.app/api?username=mortezasabri&show_icons=true&theme=default&hide=stars,prs&hide_title=false" alt="Morteza's GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezasabri&layout=compact&theme=default" alt="Top languages" />
+</p>
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=mortezasabri&color=blue)
 
 _Last updated: April 2025._
