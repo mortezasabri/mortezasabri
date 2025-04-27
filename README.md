@@ -1,16 +1,43 @@
-## Hi there 👋
+# Morteza Sabri 👨‍🔬
 
-<!--
-**mortezasabri/mortezasabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatician | Geneticist by Training | Data-driven Researcher**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 About Me
+
+Hi! I'm Morteza, a bioinformatician with a background in genetics and a strong passion for data-driven biological discovery.
+
+- 🔎 Focused on multi-omics data integration, transcriptomics, and computational biology.
+- 🌍 Open to PhD opportunities, primarily in Germany and Europe.
+- 📚 Passionate about using computational approaches to unlock biological insights.
+
+Check out my full portfolio website: [mortezasabri.github.io](https://mortezasabri.github.io/)
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:morteza_sabri@icloud.com">
+    <img src="https://img.shields.io/badge/Email-Click%20to%20Write-blue?style=flat-square&logo=icloud&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/mortezasabri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/mortezasabri">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat-square" alt="GitHub Badge" />
+  </a>
+  <a href="https://scholar.google.at/citations?user=KuzkDTcAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-Publications-brightgreen?logo=google-scholar&style=flat-square" alt="Google Scholar Badge" />
+  </a>
+  <a href="https://orcid.org/0000-0001-6662-5984">
+    <img src="https://img.shields.io/badge/ORCID-0000--0001--6662--5984-a6ce39?logo=orcid&style=flat-square" alt="ORCID Badge" />
+  </a>
+</p>
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mortezasabri&color=blue)
+
+_Last updated: April 2025._
