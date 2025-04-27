@@ -16,6 +16,23 @@ Check out my full portfolio website: [mortezasabri.github.io](https://mortezasab
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mortezasabri&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezasabri&layout=compact&theme=default" alt="Top languages" />
+</p>
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mortezasabri&color=blue)
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -38,21 +55,7 @@ Check out my full portfolio website: [mortezasabri.github.io](https://mortezasab
 
 ---
 📬 Feel free to reach out if you want to collaborate or discuss exciting bioinformatics projects!
----
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mortezasabri&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezasabri&layout=compact&theme=default" alt="Top languages" />
-</p>
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mortezasabri&color=blue)
 
 _Last updated: April 2025._
