@@ -37,6 +37,8 @@ Check out my full portfolio website: [mortezasabri.github.io](https://mortezasab
 </p>
 
 ---
+📬 Feel free to reach out if you want to collaborate or discuss exciting bioinformatics projects!
+---
 
 
 ## 📊 GitHub Stats
@@ -49,8 +51,7 @@ Check out my full portfolio website: [mortezasabri.github.io](https://mortezasab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezasabri&layout=compact&theme=default" alt="Top languages" />
 </p>
 
----
-📬 Feel free to reach out if you want to collaborate or discuss exciting bioinformatics projects!
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mortezasabri&color=blue)
 
