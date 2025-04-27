@@ -1,35 +1,19 @@
+
 # Morteza Sabri 👨‍🔬
 
 **Bioinformatician | Geneticist by Training | Data-driven Researcher**
 
 ---
 
-## 📈 About Me
+## 👨‍🔬 About Morteza
 
-Hi! I'm Morteza, a bioinformatician with a background in genetics and a strong passion for data-driven biological discovery.
+Hi! I'm Morteza, a bioinformatician with a background in genetics, passionate about using computational tools to explore complex biological systems.
 
-- 🔎 Focused on multi-omics data integration, transcriptomics, and computational biology.
-- 🌍 Open to PhD opportunities, primarily in Germany and Europe.
-- 📚 Passionate about using computational approaches to unlock biological insights.
+- 🌐 Open to PhD opportunities, primarily in Germany and Europe.
+- 🔍 Focused on multi-omics data integration, transcriptomics, and computational biology.
+- 📈 Interested in exploring complex biological systems using computational and experimental approaches.
 
-Check out my full portfolio website: [mortezasabri.github.io](https://mortezasabri.github.io/)
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mortezasabri&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezasabri&layout=compact&theme=default" alt="Top languages" />
-</p>
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mortezasabri&color=blue)
+Explore my full portfolio at [mortezasabri.github.io](https://mortezasabri.github.io/)
 
 ---
 
@@ -53,9 +37,22 @@ Check out my full portfolio website: [mortezasabri.github.io](https://mortezasab
   </a>
 </p>
 
----
 📬 Feel free to reach out if you want to collaborate or discuss exciting bioinformatics projects!
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mortezasabri&show_icons=true&theme=default&hide=stars,prs&hide_title=false" alt="Morteza's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezasabri&layout=compact&theme=default" alt="Top languages" />
+</p>
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mortezasabri&color=blue)
 
 _Last updated: April 2025._
