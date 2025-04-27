@@ -38,12 +38,11 @@ Check out my full portfolio website: [mortezasabri.github.io](https://mortezasab
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=mortezasabri&show_icons=true&theme=tokyonight" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mortezasabri&show_icons=true&theme=default&hide=stars,prs&hide_title=false" alt="Morteza's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mortezasabri&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
