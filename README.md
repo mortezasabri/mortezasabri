@@ -1,7 +1,7 @@
 
 # Morteza Sabri
 
-**Bioinformatician | Geneticist by Training | Data-driven Researcher**
+**Bioinformatician | Biologist by Training | Data-driven Researcher**
 
 ---
 
