@@ -1,11 +1,11 @@
 
-# Morteza Sabri 👨‍🔬
+# Morteza Sabri
 
 **Bioinformatician | Geneticist by Training | Data-driven Researcher**
 
 ---
 
-## 👨‍🔬 About Morteza
+## About Morteza
 
 Hi! I'm Morteza, a bioinformatician with a background in genetics, passionate about using computational tools to explore complex biological systems.
 
