@@ -39,8 +39,3 @@ Explore my full portfolio at [mortezasabri.github.io](https://mortezasabri.githu
 
 📬 Feel free to reach out if you want to collaborate or discuss exciting bioinformatics projects!
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mortezasabri&color=blue)
-
-_Last updated: April 2025._
