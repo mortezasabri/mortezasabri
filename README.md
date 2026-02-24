@@ -9,7 +9,7 @@
 
 Hi! I'm Morteza, a bioinformatician with a background in genetics, passionate about using computational tools to explore complex biological systems.
 
-- 🌐 Open to data engineer opportunities, primarily in Germany and Europe.
+- 🌐 Open to data engineer opportunities.
 - 🔍 Focused on multi-omics data integration, transcriptomics, and computational biology.
 - 📈 Interested in exploring complex biological systems using computational and experimental approaches.
 
