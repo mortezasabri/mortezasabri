@@ -20,7 +20,7 @@ Explore my full portfolio at [mortezasabri.github.io](https://mortezasabri.githu
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:morteza_sabri@icloud.com">
+  <a href="mailto:morteza.sabri@uni-greifswald.com">
     <img src="https://img.shields.io/badge/Email-Click%20to%20Write-blue?style=flat-square&logo=icloud&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://www.linkedin.com/in/mortezasabri/">
